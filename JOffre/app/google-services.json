@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "612613022478",
+    "firebase_url": "https://joffre-38d9c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "joffre-38d9c",
+    "storage_bucket": "joffre-38d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612613022478:android:3a29b4b2dd3c7979fd6d5f",
+        "android_client_info": {
+          "package_name": "com.android.joffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612613022478-m3qdut504n97pj1a43hdhmcp0dvl0uhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcIRpApZyWDBO-2gWBOf7VgNOlWw8XAqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612613022478-m3qdut504n97pj1a43hdhmcp0dvl0uhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612613022478:android:261aff6758932c69fd6d5f",
+        "android_client_info": {
+          "package_name": "com.android.joffre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612613022478-m3qdut504n97pj1a43hdhmcp0dvl0uhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcIRpApZyWDBO-2gWBOf7VgNOlWw8XAqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612613022478-m3qdut504n97pj1a43hdhmcp0dvl0uhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

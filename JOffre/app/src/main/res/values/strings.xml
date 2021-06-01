@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Joffer</string>
+    <string-array name="numbers">
+        <item> Vetements</item>
+        <item>Eléctroniques</item>
+        <item>Meubles</item>
+        <item>Livres</item>
+        <item>Sport</item>
+        <item>Enfants</item>
+        <item>Animaux</item>
+        <item>Outils</item>
+
+    </string-array>
+    <string name="facebook_app_id">293168168853342</string>
+    <string name="fb_login_protocol_scheme">fb293168168853342</string>
+    <string name="slogon">"De même que le fleuve retourne à la mer, le don de l'homme revient vers lui"</string>
+    <string name="babies">Enfants</string>
+    <string name="pets">Animaux</string>
+    <string name="cloths">Vetements</string>
+    <string name="books">Livres</string>
+    <string name="electronics">Electroniques</string>
+    <string name="furniture">Meubles</string>
+    <string name="sports">Sport</string>
+    <string name="tools">Outils</string>
+
+    <string name="add_offre">Ajouter une Offer</string>
+    <string name="mod_offre">Modifier une Offer</string>
+    <string name="del_offre">Supprimer une Offer</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+</resources>
